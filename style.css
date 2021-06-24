@@ -4,6 +4,8 @@ header {
 }
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffffe6;
+	text-align: center;
+	
 }
 #navLinks{
     justify-content: flex-end;
@@ -28,7 +30,7 @@ header {
 .hero-right.text-center h2 {
 	font-size: 36px;
 	text-transform: uppercase;
-	color: #e32a2a;
+	color: green;
 	font-weight: 700;
 	display: block;
 }
@@ -44,7 +46,7 @@ header {
 }
 .cta-box.text-center {
 	background: #008DC2;
-	padding: 40px 40px;
+	padding: 40px ;
 	color: #fff;
     margin-top: -100px;
     margin-bottom: 100px;
@@ -63,7 +65,7 @@ header {
     font-weight: 600;
 }
 .cta-area-wrapper{
-    background: url(images/b2.jpg);
+    background: url(images/min3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
