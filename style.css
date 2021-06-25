@@ -5,6 +5,8 @@ header {
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffffe6;
 	text-align: center;
+	margin-top:  30px;
+	padding:10px 30px;
 	
 }
 #navLinks{
@@ -16,7 +18,7 @@ header {
 	color: #008DC2;
 }
 .brand-logo-area img {
-	width: 40%;
+	width: 60%;
 }
 .hero-section{
     background: url(images/B1.jpg);
@@ -46,7 +48,7 @@ header {
 }
 .cta-box.text-center {
 	background: #008DC2;
-	padding: 40px ;
+	padding: 20px ;
 	color: #fff;
     margin-top: -100px;
     margin-bottom: 100px;
@@ -69,6 +71,7 @@ header {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    height: 250vh;
 }
 .cta-area-content-wrapper {
 	background-color: rgba(0,0,0,0.5);
@@ -79,9 +82,19 @@ header {
 	background: #FFF;
 	padding: 35px;
 	border-radius: 5px;
+
 }
-.service-icon{
-padding-top:-5px;
+.single{
+margin-top:765px;
+}
+
+.txt{
+    margin-top:180px;
+}
+.icon{
+width:60px;
+height: 60px;
+
 }
 .section-title.text-center h4 {
 	color: #FFF;
