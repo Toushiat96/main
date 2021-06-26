@@ -32,9 +32,14 @@ header {
 .hero-right.text-center h2 {
 	font-size: 36px;
 	text-transform: uppercase;
-	color: green;
+	color: blue;
 	font-weight: 700;
 	display: block;
+}
+.hero-right.text-center p{
+color: yellow;
+font-size: 25px;
+font-weight: bold;
 }
 .hero-right.text-center a {
 	text-decoration: none;
@@ -85,11 +90,11 @@ header {
 
 }
 .single{
-margin-top:765px;
+margin-top:720px;
 }
 
 .txt{
-    margin-top:180px;
+    margin-top:50px;
 }
 .icon{
 width:60px;
